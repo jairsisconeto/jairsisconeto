@@ -10,31 +10,6 @@ Análise e Desenvolvimento de Sistemas - Anhanguera
 
 ---
 
-## Minha Jornada de Aprendizado - 2025
-
-- **Início da Jornada:** Comecei minha formação em **Análise e Desenvolvimento de Sistemas** pela **Anhanguera**.  
-- **Fundamentos Explorados:**
-  - Introdução à **Informática** e ao sistema operacional **Linux**.
-  - Compreensão inicial sobre **HTTP**, **HTML**, **CSS** e criação de páginas web simples.  
-  - Primeiros passos com **Bootstrap** e **Figma** para design e prototipação.
-
-- **Profundidade nos Estudos:** Me especializei em tecnologias interativas e backend.  
-- **Habilidades Aprendidas:**
-  - **JavaScript:** Desenvolvimento de scripts dinâmicos para melhorar a funcionalidade de páginas web.  
-  - **Git & GitHub:** Controle de versões e colaboração em projetos.  
-  - **PHP & MySQL:** Construção de sistemas simples e gerenciamento de bancos de dados.  
-  - **Node.js:** Exploração inicial de servidores JavaScript.
-
-### 🌱 Meu Objetivo Atual
-- Continuar aprimorando minhas habilidades em **Laravel** e **IA Generativa**.  
-- Expandir meu conhecimento em ferramentas colaborativas, como **Jira** e **Docker Desktop**.  
-- Buscar constante desenvolvimento das minhas soft skills, como comunicação e trabalho em equipe.
-
-📅 **Resumo do Ano de 2025:**  
-Este foi um ano marcante de aprendizado e crescimento na tecnologia, onde combinei minhas experiências em gestão com uma nova visão para o mundo digital.
-
----
-
 💼 **Sobre Mim:**  
 Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me especializando em Análise e Desenvolvimento de Sistemas. Meu objetivo é ampliar meus conhecimentos em tecnologia por meio de cursos introdutórios e práticos nas seguintes áreas:
 
