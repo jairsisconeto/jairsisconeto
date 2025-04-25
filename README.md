@@ -54,3 +54,13 @@ Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me espec
 
 📚 **Meu Compromisso:**  
 Estou constantemente desenvolvendo minhas competências para crescer profissionalmente e contribuir de forma significativa na área de tecnologia. 🚀
+
+---
+
+## Tecnologias Principais
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60px" style="margin-right: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60px" style="margin-right: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px"/>
+</div>
