@@ -12,8 +12,7 @@
 💼 **Sobre Mim:**  
 Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me especializando em Análise e Desenvolvimento de Sistemas. Meu objetivo é ampliar meus conhecimentos em tecnologia por meio de cursos introdutórios e práticos nas seguintes áreas:
 
-- **Informática**
-- **Linux**
+- **Informática** - **Linux**
 - **HTTP, HTML, CSS**
 - **Bootstrap, Figma**
 - **Git & GitHub**
