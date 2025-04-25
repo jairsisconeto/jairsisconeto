@@ -12,15 +12,7 @@
 💼 **Sobre Mim:**  
 Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me especializando em Análise e Desenvolvimento de Sistemas. Meu objetivo é ampliar meus conhecimentos em tecnologia por meio de cursos introdutórios e práticos nas seguintes áreas:
 
-- **Informática** - **Linux**
-- **HTTP, HTML, CSS**
-- **Bootstrap, Figma**
-- **Git & GitHub**
-- **Algoritmos e Lógica de Programação**
-- **JavaScript, Node.js**
-- **PHP, MySQL, Laravel**
-- **IA Generativa**
-- **Soft Skills**
+- **Informática, Linux, HTTP, HTML, CSS, Bootstrap, Figma, Git & GitHub, Algoritmos e Lógica de Programação, JavaScript, Node.js, PHP, MySQL, Laravel, IA Generativa & Soft Skills**
 
 ---
 
@@ -28,13 +20,7 @@ Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me espec
 - **Linguagens:** HTML, CSS, JavaScript  
 - **Frameworks:** Bootstrap  
 - **Ferramentas:**  
-  - PhpStorm  
-  - GitHub  
-  - Vercel  
-  - Gather  
-  - Jira  
-  - Slack  
-  - Docker Desktop  
+  - PhpStorm, GitHub, Vercel, Gather, Jira, Slack & Docker Desktop
 
 ---
 
