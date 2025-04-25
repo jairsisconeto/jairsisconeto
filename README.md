@@ -19,8 +19,7 @@ Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me espec
 🛠️ **Experiência Técnica:**  
 - **Linguagens:** HTML, CSS, JavaScript  
 - **Frameworks:** Bootstrap  
-- **Ferramentas:**  
-  - PhpStorm, GitHub, Vercel, Gather, Jira, Slack & Docker Desktop
+- **Ferramentas:** PhpStorm, GitHub, Vercel, Gather, Jira, Slack & Docker Desktop
 
 ---
 
