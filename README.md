@@ -1,16 +1,56 @@
-## Hi there 👋
+# Bem-vindos ao meu GitHub!
 
-<!--
-**jairsisconeto/jairsisconeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo, Jair.
 
-Here are some ideas to get you started:
+🎓 **Cursando Ensino Superior de Tecnologia**  
+Análise e Desenvolvimento de Sistemas - Anhanguera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💼 **Sobre Mim:**  
+Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me especializando em Análise e Desenvolvimento de Sistemas. Meu objetivo é ampliar meus conhecimentos em tecnologia por meio de cursos introdutórios e práticos nas seguintes áreas:
+
+- **Informática**
+- **Linux**
+- **HTTP, HTML, CSS**
+- **Bootstrap, Figma**
+- **Git & GitHub**
+- **Algoritmos e Lógica de Programação**
+- **JavaScript, Node.js**
+- **PHP, MySQL, Laravel**
+- **IA Generativa**
+- **Soft Skills**
+
+---
+
+🛠️ **Experiência Técnica:**  
+- **Linguagens:** HTML, CSS, JavaScript  
+- **Frameworks:** Bootstrap  
+- **Ferramentas:**  
+  - PhpStorm  
+  - GitHub  
+  - Vercel  
+  - Gather  
+  - Jira  
+  - Slack  
+  - Docker Desktop  
+
+---
+
+🌟 **Habilidades:**  
+- Inteligência emocional  
+- Ética profissional  
+- Comunicação assertiva  
+- Trabalho em equipe  
+- Resolução de problemas
+
+---
+
+🌍 **Idiomas:**  
+- **Português:** Fluente  
+- **Inglês:** Básico (em aprimoramento)
+
+---
+
+📚 **Meu Compromisso:**  
+Estou constantemente desenvolvendo minhas competências para crescer profissionalmente e contribuir de forma significativa na área de tecnologia. 🚀
