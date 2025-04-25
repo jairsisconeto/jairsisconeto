@@ -1,6 +1,3 @@
-## Redes Sociais e Contato:
-
-
 # Bem-vindo ao meu GitHub! 🚀✨
 **Jair Magalhães Sisconeto**
 - 💼 **Gerente Administrativo**  
