@@ -1,9 +1,7 @@
-# Bem-vindos ao meu GitHub!
+# Bem-vindos ao meu GitHub! 🚀✨
 
-### Me chamo, Jair.
-
-## Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/jairsisconeto/)
+- [Dio.me](https://www.dio.me/users/jairsisconeto)
 
 ---
 
