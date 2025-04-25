@@ -1,7 +1,15 @@
-# Bem-vindos ao meu GitHub! 🚀✨
+# Bem-vindo ao meu GitHub! 🚀✨
 
-- [LinkedIn](https://www.linkedin.com/in/jairsisconeto/)
-- [Dio.me](https://www.dio.me/users/jairsisconeto)
+- 💼 **Gerente Administrativo**
+- 📚 **Cursando Ensino Superior em **Análise e Desenvolvimento de Sistemas** pela Anhanguera**  
+- 🏡 **Pará, Brasil**  
+**Seja forte, trabalhe, lidere-se e governe!**
+
+---
+
+## 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusername)
 
 ---
 
@@ -38,9 +46,8 @@ Estou constantemente desenvolvendo minhas competências para crescer profissiona
 ---
 
 ## Tecnologias Principais
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60px" style="margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60px" style="margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" style="margin: 10px;"/>
 </div>
