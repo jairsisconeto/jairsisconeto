@@ -2,8 +2,6 @@
 
 ### Me chamo, Jair.
 
-🎓 **Cursando Ensino Superior de Tecnologia**  Análise e Desenvolvimento de Sistemas - Anhanguera
-
 ## Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/jairsisconeto/)
 
