@@ -4,13 +4,11 @@
 - 📚 **Cursando Ensino Superior em **Análise e Desenvolvimento de Sistemas** pela Anhanguera**  
 - 🏡 **Pará, Brasil**
  
-**Seja forte, trabalhe, lidere-se e governe!**
   
 [<img src="https://img.icons8.com/color/24/linkedin.png" alt="LinkedIn">](https://www.linkedin.com/in/jairsisconeto)
 [<img src="https://img.icons8.com/color/24/instagram-new.png" alt="Instagram">](https://www.instagram.com/jairsisconeto)
 [<img src="https://img.icons8.com/color/24/telegram-app.png" alt="Telegram">](https://t.me/jairsisconeto)
 [<img src="https://img.icons8.com/color/24/gmail-new.png" alt="Gmail">](mailto:jairsisconeto@gmail.com)
-
 
 ---
 
