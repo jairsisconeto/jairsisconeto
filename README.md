@@ -1,7 +1,7 @@
 # Bem-vindo ao meu GitHub! 🚀✨
 **Jair Magalhães Sisconeto, ⛥ 1994**
 - 💼 **Gerente Administrativo**  
-- 📚 **Graduando em **Análise e Desenvolvimento de Sistemas** pela Anhanguera**  
+- 📚 **Graduando em **Engenharia de Software & Análise e Desenvolvimento de Sistemas** pela Anhanguera**  
 - 🏡 **Pará, Brasil**
  
   
