@@ -45,4 +45,4 @@ Atuo como Gerente Administrativo há mais de 10 anos e atualmente estou me espec
 
 🌍 **Idiomas:**  
 - **Português:** Fluente  
-- **Inglês:** Básico (em aprimoramento)
+- **Inglês:** Básico (em aprimoramento) 
