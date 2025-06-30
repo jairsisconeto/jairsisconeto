@@ -14,11 +14,7 @@
 
 🙍🏻‍♂️ **Sobre Mim:**  
 
-"Estou em transição de carreira, migrando da gestão administrativa para o desenvolvimento de software. Busco aplicar minha experiência em administração, organização e liderança para contribuir com soluções inovadoras na área de tecnologia, combinando habilidades de gestão com conhecimento técnico."
-
-"Estou em transição de carreira, migrando da gestão administrativa para o desenvolvimento de software. Busco aplicar minha experiência em administração, organização e liderança para contribuir com soluções inovadoras na área de tecnologia, combinando habilidades de gestão com conhecimento técnico."
-
-Atuo como Gerente administrativo há mais de 10 anos e atualmente estou me especializando em Análise e Desenvolvimento de Sistemas. Tenho buscado ampliar meu conhecimento em tecnologia por meio de cursos introdutórios em áreas como **Informática, Linux, HTTP, Excel, WordPress, HTML, CSS, Bootstrap, Figma, Git, GitHub, Algoritmos e Lógica de Programação, JavaScript, React.js, Node.js, IA Generativa e Machine Learning, Cloud Computing (AWS e Azure) & Soft Skills.**
+Estou em transição de carreira, migrando da área administrativa — onde atuei por mais de 10 anos como Gerente — para o desenvolvimento de software, com o objetivo de unir minha experiência em liderança, organização e gestão a soluções tecnológicas inovadoras. Atualmente me especializo em Análise e Desenvolvimento de Sistemas e venho expandindo meus conhecimentos por meio de cursos introdutórios e práticos em áreas como  **Informática, Linux, HTTP, Excel, WordPress, HTML, CSS, Bootstrap, Figma, Git, GitHub, Algoritmos e Lógica de Programação, JavaScript, React.js, Node.js, Cloud Computing (AWS e Azure), IA Generativa e Machine Learning, & Soft Skills.**
 
 
 🧠 **Habilidades:**  Inteligência emocional, Ética profissional, Comunicação assertiva, Trabalho em equipe & Resolução de problemas
