@@ -14,7 +14,7 @@
 
 🙍🏻‍♂️ **Sobre Mim:**  
 
-Estou em transição de carreira, migrando da área administrativa — onde atuei por mais de 10 anos como Gerente — para o desenvolvimento de software, com o objetivo de unir minha experiência em liderança, organização e gestão a soluções tecnológicas inovadoras. Atualmente me especializo em Análise e Desenvolvimento de Sistemas e venho expandindo meus conhecimentos por meio de cursos introdutórios e práticos em áreas como  **Informática, Linux, HTTP, Excel, WordPress, HTML, CSS, Bootstrap, Figma, Git, GitHub, Algoritmos e Lógica de Programação, JavaScript, React.js, Node.js, Cloud Computing (AWS e Azure), IA Generativa e Machine Learning, & Soft Skills.**
+Estou em transição de carreira, migrando da área administrativa — onde atuo por mais de 10 anos como Gerente — para o desenvolvimento de software, com o objetivo de unir minha experiência em liderança, organização e gestão a soluções tecnológicas inovadoras. Atualmente me especializo em Análise e Desenvolvimento de Sistemas e venho expandindo meus conhecimentos por meio de cursos introdutórios e práticos em áreas como  **Informática, HTTP, Linux, Excel, WordPress, HTML, CSS, Bootstrap, Figma, Git, GitHub, Algoritmos e Lógica de Programação, JavaScript, React.js, Node.js, Cloud Computing (AWS e Azure), CiberSegurança, IA Generativa e Machine Learning & Soft Skills.**
 
 
 🧠 **Habilidades:**  Inteligência emocional, Ética profissional, Comunicação assertiva, Trabalho em equipe & Resolução de problemas
@@ -32,6 +32,8 @@ Estou em transição de carreira, migrando da área administrativa — onde atue
 - **Ferramentas:** VSCode, PhpStorm (IDE para PHP), GitHub (controle de versão), Vercel (deploy), Gather (colaboração), Jira (gestão de projetos), Slack (comunicação) e Docker Desktop (containerização)  
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50px" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50px" style="margin: 10px;"/>
@@ -51,3 +53,20 @@ Estou em transição de carreira, migrando da área administrativa — onde atue
 - [Jogo da Memória](https://github.com/jairsisconeto/criando-jogo-memoria-emojis-utilizando-javascript): Este é um jogo da memória desenvolvido utilizando HTML, CSS e JavaScript. Ao longo deste projeto, explorei conceitos essenciais para estruturar, estilizar e dinamizar um jogo interativo no navegador.
 
 <!-- - [Nome do Projeto](link-do-repo): descrição rápida do que o projeto faz, tecnologias utilizadas e objetivo. -->
+
+---
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jairsisconeto&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jairsisconeto&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairsisconeto&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
+
+</div>
