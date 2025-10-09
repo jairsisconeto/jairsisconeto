@@ -14,7 +14,7 @@
 
 🙍🏻‍♂️ **Sobre Mim:**  
 
-Estou em transição de carreira, migrando da área administrativa — onde atuo por mais de 10 anos como Gerente — para o desenvolvimento de software, com o objetivo de unir minha experiência em liderança, organização e gestão a soluções tecnológicas inovadoras. Atualmente me especializo em Análise e Desenvolvimento de Sistemas e venho expandindo meus conhecimentos por meio de cursos introdutórios e práticos em áreas como  **Informática, HTTP, Linux, Excel, WordPress, HTML, CSS, Bootstrap, Figma, Git, GitHub, Algoritmos e Lógica de Programação, JavaScript, React.js, Node.js, Cloud Computing (AWS e Azure), CiberSegurança, IA Generativa e Machine Learning & Soft Skills.**
+Minha trajetória profissional se desenvolveu por mais de 10 anos como Gerente Administrativo no varejo, e hoje direciono minha carreira para a gestão de produtos de tecnologia. Paralelamente, me especializo em Análise e Desenvolvimento de Sistemas e em gestão de Processos, Projetos e Produtos, buscando integrar minhas competências em liderança, organização e gestão a soluções tecnológicas práticas e eficientes.
 
 
 🧠 **Habilidades:**  Inteligência emocional, Ética profissional, Comunicação assertiva, Trabalho em equipe & Resolução de problemas
